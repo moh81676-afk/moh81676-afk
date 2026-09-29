@@ -81,8 +81,8 @@ class Developer:
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamedali-zaho/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/moh81676-afk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:mohammed.ali.shabl1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedali-zaho/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://github.com/moh81676-afk"><img src="https://cdn.simpleicons.org/github/8B949E" width="48" height="48" alt="GitHub" title="GitHub" /></a>
+  <a href="mailto:mohammed.ali.shabl1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Email" title="Email" /></a>
 </p>
