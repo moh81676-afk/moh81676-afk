@@ -38,65 +38,76 @@ class Developer:
 
 **📊 Analysis & BI**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="44" height="44" alt="Excel" /><br /><sub>Excel</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="44" height="44" alt="Power BI" /><br /><sub>Power BI</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/tableau/E97627" width="44" height="44" alt="Tableau" /><br /><sub>Tableau</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/looker/4285F4" width="44" height="44" alt="Looker Studio" /><br /><sub>Looker Studio</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/googlesheets/34A853" width="44" height="44" alt="Google Sheets" /><br /><sub>Google Sheets</sub></td>
+  </tr>
+</table>
 
 **🗄️ Databases & SQL**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="44" height="44" alt="MySQL" /><br /><sub>MySQL</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="44" height="44" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="44" height="44" alt="SQL Server" /><br /><sub>SQL Server</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/sqlite/4DA5D6" width="44" height="44" alt="SQLite" /><br /><sub>SQLite</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="44" height="44" alt="MongoDB" /><br /><sub>MongoDB</sub></td>
+  </tr>
+</table>
 
 **🐍 Python for Data**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" /><br /><sub>Python</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/pandas/8E7CC3" width="44" height="44" alt="Pandas" /><br /><sub>Pandas</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/numpy/4DABCF" width="44" height="44" alt="NumPy" /><br /><sub>NumPy</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="44" height="44" alt="Matplotlib" /><br /><sub>Matplotlib</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/plotly/7A76FF" width="44" height="44" alt="Plotly" /><br /><sub>Plotly</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="44" height="44" alt="Scikit-learn" /><br /><sub>Scikit-learn</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="44" height="44" alt="Jupyter" /><br /><sub>Jupyter</sub></td>
+  </tr>
+</table>
 
 **⚙️ Data Engineering**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="44" height="44" alt="Spark" /><br /><sub>Spark</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="44" height="44" alt="Airflow" /><br /><sub>Airflow</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/apachekafka/8B949E" width="44" height="44" alt="Kafka" /><br /><sub>Kafka</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="44" height="44" alt="dbt" /><br /><sub>dbt</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="44" height="44" alt="Snowflake" /><br /><sub>Snowflake</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/googlebigquery/669DF6" width="44" height="44" alt="BigQuery" /><br /><sub>BigQuery</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/databricks/FF3621" width="44" height="44" alt="Databricks" /><br /><sub>Databricks</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/docker/2496ED" width="44" height="44" alt="Docker" /><br /><sub>Docker</sub></td>
+  </tr>
+</table>
 
 **🤖 AI & Machine Learning**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="44" height="44" alt="PyTorch" /><br /><sub>PyTorch</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="44" height="44" alt="TensorFlow" /><br /><sub>TensorFlow</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="44" height="44" alt="Hugging Face" /><br /><sub>Hugging Face</sub></td>
+  </tr>
+</table>
 
 **🛠️ Tools**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" /><br /><sub>Git</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/github/8B949E" width="44" height="44" alt="GitHub" /><br /><sub>GitHub</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code" /><br /><sub>VS Code</sub></td>
+  </tr>
+</table>
 
 ## 📁 Featured Projects
 
