@@ -60,11 +60,6 @@ class Developer:
   <img src="https://streak-stats.demolab.com/?user=moh81676-afk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moh81676-afk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh81676-afk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🎯 My Data Focus
 
 - ✅ Data analysis with **Excel, Power BI & SQL**
