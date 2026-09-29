@@ -67,11 +67,12 @@ class Developer:
 - ✅ Clear **dashboards & data storytelling**
 - ✅ Learning **data pipelines & ETL**
 - ✅ Exploring **machine learning & AI**
-- 🔗 Check it out: [My Portfolio](https://github.com/moh81676-afk/mohamedali-portfolio)
+- 🔗 Check it out: [My Portfolio](https://mohamedali-portfolio.mohammed-ali-shabl1.workers.dev/)
 
 ## 📁 Featured Projects
 
-- 🌐 [mohamedali-portfolio](https://github.com/moh81676-afk/mohamedali-portfolio): my personal portfolio website
+- 🌐 [Live Portfolio](https://mohamedali-portfolio.mohammed-ali-shabl1.workers.dev/): my personal portfolio website
+- 💻 [mohamedali-portfolio](https://github.com/moh81676-afk/mohamedali-portfolio): source code of the portfolio
 - 🗂️ [portfolio-2](https://github.com/moh81676-afk/portfolio-2): second portfolio version
 
 ## 📫 Connect With Me
