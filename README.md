@@ -28,18 +28,13 @@ I enjoy building dashboards and reports that make numbers easy to understand, an
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧰 Tech Toolbox
 
 <div align="center">
 
-<table align="center"><tr>
-<td align="center" width="110"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="56" height="56" alt="Excel" /><br/><sub><b>Excel</b></sub></td>
-<td align="center" width="110"><img src="https://img.icons8.com/color/96/power-bi.png" width="56" height="56" alt="Power BI" /><br/><sub><b>Power BI</b></sub></td>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="56" height="56" alt="SQL" /><br/><sub><b>SQL</b></sub></td>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="56" height="56" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56" height="56" alt="Git" /><br/><sub><b>Git</b></sub></td>
-<td align="center" width="110"><img src="https://img.icons8.com/ios-glyphs/96/ffffff/github.png" width="56" height="56" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
-</tr></table>
+<a href="https://676-afk.github.io"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" /> <img src="https://img.icons8.com/color/96/power-bi.png" width="48" height="48" alt="Power BI" /> <img src="https://skillicons.dev/icons?i=postgres,html,git,github&theme=dark" height="48" alt="SQL, HTML5, Git, GitHub" /></a>
+
+<sub>Excel &nbsp;•&nbsp; Power BI &nbsp;•&nbsp; SQL &nbsp;•&nbsp; HTML5 &nbsp;•&nbsp; Git &nbsp;•&nbsp; GitHub</sub>
 
 </div>
 
