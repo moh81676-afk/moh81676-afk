@@ -32,9 +32,9 @@ I enjoy building dashboards and reports that make numbers easy to understand, an
 
 <div align="center">
 
-<a href="https://676-afk.github.io"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" /> <img src="https://img.icons8.com/color/96/power-bi.png" width="48" height="48" alt="Power BI" /> <img src="https://skillicons.dev/icons?i=postgres,html,git,github&theme=dark" height="48" alt="SQL, HTML5, Git, GitHub" /></a>
+<a href="https://676-afk.github.io"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" /> <img src="https://img.icons8.com/color/96/power-bi.png" width="48" height="48" alt="Power BI" /> <img src="https://skillicons.dev/icons?i=postgres,html,css,git,github,vscode,py,pandas,numpy,jupyter&theme=dark" height="48" alt="SQL, HTML, CSS, Git, GitHub, VS Code, Python, Pandas, NumPy, Jupyter" /></a>
 
-<sub>Excel &nbsp;•&nbsp; Power BI &nbsp;•&nbsp; SQL &nbsp;•&nbsp; HTML5 &nbsp;•&nbsp; Git &nbsp;•&nbsp; GitHub</sub>
+<sub>Excel &nbsp;•&nbsp; Power BI &nbsp;•&nbsp; SQL &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; VS Code &nbsp;•&nbsp; Python &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Jupyter</sub>
 
 </div>
 
@@ -43,7 +43,7 @@ I enjoy building dashboards and reports that make numbers easy to understand, an
 | **Analysis & Reporting** | Excel (formulas, pivot tables, dashboards), KPI design |
 | **Business Intelligence** | Power BI, Star Schema modeling, DAX |
 | **Databases** | SQL (SELECT, JOINs, aggregations) |
-| **Currently learning** | Python for data analysis |
+| **Currently learning** | Python for data analysis (Pandas, NumPy, Jupyter) |
 
 ---
 
