@@ -82,11 +82,11 @@ I'm open to junior data analyst opportunities, internships, and collaborations.
 
 <div align="center">
 
-<a href="mailto:mohammed.ali.shabl1@gmail.com">📧 mohammed.ali.shabl1@gmail.com</a>
-
-<a href="https://linkedin.com/in/mohamedali-zaho">💼 linkedin.com/in/mohamedali-zaho</a>
-
-<a href="https://676-afk.github.io">🌐 676-afk.github.io</a>
+<table align="center"><tr>
+<td align="center" width="130"><a href="mailto:mohammed.ali.shabl1@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="56" height="56" alt="Email" /><br/><sub><b>Email</b></sub></a></td>
+<td align="center" width="130"><a href="https://linkedin.com/in/mohamedali-zaho"><img src="https://img.icons8.com/color/96/linkedin.png" width="56" height="56" alt="LinkedIn" /><br/><sub><b>LinkedIn</b></sub></a></td>
+<td align="center" width="130"><a href="https://676-afk.github.io"><img src="https://img.icons8.com/color/96/internet--v1.png" width="56" height="56" alt="Portfolio" /><br/><sub><b>Portfolio</b></sub></a></td>
+</tr></table>
 
 </div>
 
