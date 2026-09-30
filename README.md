@@ -7,9 +7,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-676--afk.github.io-4FC3F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://676-afk.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedali--zaho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedali-zaho)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.ali.shabl1@gmail.com)
+<table align="center"><tr>
+<td align="center" width="130"><a href="https://676-afk.github.io"><img src="https://img.icons8.com/color/96/internet--v1.png" width="56" height="56" alt="Portfolio" /><br/><sub><b>Portfolio</b></sub></a></td>
+<td align="center" width="130"><a href="https://linkedin.com/in/mohamedali-zaho"><img src="https://img.icons8.com/color/96/linkedin.png" width="56" height="56" alt="LinkedIn" /><br/><sub><b>LinkedIn</b></sub></a></td>
+<td align="center" width="130"><a href="mailto:mohammed.ali.shabl1@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="56" height="56" alt="Email" /><br/><sub><b>Email</b></sub></a></td>
+</tr></table>
 
 </div>
 
@@ -17,7 +19,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Mohamed Ali**, but most people call me **7OMS**. I'm an **Technology student at Tanta University** (graduating 2028), specializing in **data analysis**.
+Hi, I'm **Mohamed Ali**. I'm studying **Technology** at **Tanta University** (graduating 2028), specializing in **data analysis**.
 
 I enjoy building dashboards and reports that make numbers easy to understand, and I'm looking for a **Junior Data Analyst** role or internship where I can keep growing.
 
