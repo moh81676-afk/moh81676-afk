@@ -5,10 +5,6 @@
 
 <a href="https://github.com/676-afk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+clear+decisions;Excel+%7C+Power+BI+%7C+SQL;Microsoft+Certified+in+Data+Analysis" alt="Typing SVG" /></a>
 
-<br/>
-
-<a href="https://676-afk.github.io"><img src="https://img.icons8.com/color/96/internet--v1.png" width="48" height="48" alt="Portfolio" /></a> &nbsp; <a href="https://linkedin.com/in/mohamedali-zaho"><img src="https://img.icons8.com/color/96/linkedin.png" width="48" height="48" alt="LinkedIn" /></a> &nbsp; <a href="mailto:mohammed.ali.shabl1@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="48" height="48" alt="Email" /></a>
-
 </div>
 
 ---
