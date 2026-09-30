@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Mohamed Ali**, but most people call me **7OS**. I'm an **Educational Technology student at Tanta University** (graduating 2028), specializing in **data analysis**.
+Hi, I'm **Mohamed Ali**, but most people call me **7OMS**. I'm an **Technology student at Tanta University** (graduating 2028), specializing in **data analysis**.
 
 I enjoy building dashboards and reports that make numbers easy to understand, and I'm looking for a **Junior Data Analyst** role or internship where I can keep growing.
 
