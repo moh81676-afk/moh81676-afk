@@ -59,17 +59,6 @@ An Arabic Excel workbook with automated totals, percentages, pass/fail logic, an
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=676-afk&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=676-afk&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to junior data analyst opportunities, internships, and collaborations.
