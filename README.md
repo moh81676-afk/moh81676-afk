@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Ali%20(7OS)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Analyst&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Analyst&descAlignY=58&descSize=20" width="100%" />
 
 <a href="https://github.com/676-afk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+clear+decisions;Excel+%7C+Power+BI+%7C+SQL;Microsoft+Certified+in+Data+Analysis" alt="Typing SVG" /></a>
 
