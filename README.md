@@ -80,9 +80,15 @@ An Arabic Excel workbook with automated totals, percentages, pass/fail logic, an
 
 I'm open to junior data analyst opportunities, internships, and collaborations.
 
-📧 **mohammed.ali.shabl1@gmail.com**
-💼 **[linkedin.com/in/mohamedali-zaho](https://linkedin.com/in/mohamedali-zaho)**
-🌐 **[676-afk.github.io](https://676-afk.github.io)**
+<div align="center">
+
+<a href="mailto:mohammed.ali.shabl1@gmail.com">📧 mohammed.ali.shabl1@gmail.com</a>
+
+<a href="https://linkedin.com/in/mohamedali-zaho">💼 linkedin.com/in/mohamedali-zaho</a>
+
+<a href="https://676-afk.github.io">🌐 676-afk.github.io</a>
+
+</div>
 
 <div align="center">
 
