@@ -32,12 +32,14 @@ I enjoy building dashboards and reports that make numbers easy to understand, an
 
 <div align="center">
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<table align="center"><tr>
+<td align="center" width="110"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="56" height="56" alt="Excel" /><br/><sub><b>Excel</b></sub></td>
+<td align="center" width="110"><img src="https://img.icons8.com/color/96/power-bi.png" width="56" height="56" alt="Power BI" /><br/><sub><b>Power BI</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="56" height="56" alt="SQL" /><br/><sub><b>SQL</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="56" height="56" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56" height="56" alt="Git" /><br/><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="https://img.icons8.com/ios-glyphs/96/ffffff/github.png" width="56" height="56" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
+</tr></table>
 
 </div>
 
