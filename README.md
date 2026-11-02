@@ -65,7 +65,7 @@ I'm open to junior data analyst opportunities, internships, and collaborations.
 
 <div align="center">
 
-<a href="mailto:mohammed.ali.shabl1@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="48" height="48" alt="Email" /></a> &nbsp; <a href="https://linkedin.com/in/mohamedali-zaho"><img src="https://img.icons8.com/color/96/linkedin.png" width="48" height="48" alt="LinkedIn" /></a> &nbsp; <a href="(https://mohamedali-portfolio-site.mohammed-ali-shabl1.workers.dev/)"><img src="https://img.icons8.com/color/96/internet--v1.png" width="48" height="48" alt="Portfolio" /></a>
+<a href="mailto:mohammed.ali.shabl1@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="48" height="48" alt="Email" /></a> &nbsp; <a href="https://linkedin.com/in/mohamedali-zaho"><img src="https://img.icons8.com/color/96/linkedin.png" width="48" height="48" alt="LinkedIn" /></a> &nbsp; <a href="https://mohamedali-portfolio-site.mohammed-ali-shabl1.workers.dev/"><img src="https://img.icons8.com/color/96/internet--v1.png" width="48" height="48" alt="Portfolio" /></a>
 
 </div>
 
